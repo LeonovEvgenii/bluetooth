@@ -1,0 +1,12 @@
+sudo apt install python3-dev
+sudo apt-get install libbluetooth-dev
+sudo pip3 install pybluez
+
+sudo apt-get install bluetooth
+sudo aptitude install python-bluez
+sudo apt-get install python3-pip
+
+sudo apt install aptitude
+sudo apt install rfkill
+
+sudo rfkill list
